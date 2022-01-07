@@ -18,3 +18,4 @@ children:
   - /selling-your-app-on-github-marketplace
 ---
 
+NAURA coin
